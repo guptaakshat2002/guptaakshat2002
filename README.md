@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guptaakshat2002&label=Profile%20views&color=0e75b6&style=flat" alt="guptaakshat2002" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/guptaakshat2002?tab=repositories](https://github.com/guptaakshat2002?tab=repositories)
+👨‍💻 All of my projects are available at [https://github.com/guptaakshat2002?tab=repositories](https://github.com/guptaakshat2002?tab=repositories)
 
-- 💬 Ask me about **Data analyst, Python, Machine Learning and Databases**
+💬 Ask me about **Data analyst, Python, Machine Learning and Databases**
 
-- 📫 How to reach me **akshatg989@gmail.com**
+📫 How to reach me **akshatg989@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JYic1jji1Cq-5JYoRo5SsDYsvubTqdXR/view?usp=sharing](https://drive.google.com/file/d/1JYic1jji1Cq-5JYoRo5SsDYsvubTqdXR/view?usp=sharing)
+📄 Know about my experiences [https://drive.google.com/file/d/1JYic1jji1Cq-5JYoRo5SsDYsvubTqdXR/view?usp=sharing](https://drive.google.com/file/d/1JYic1jji1Cq-5JYoRo5SsDYsvubTqdXR/view?usp=sharing)
 
-- ⚡ Fun fact **I can do multiple task easily**
+⚡ Fun fact **I can do multiple task easily**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
