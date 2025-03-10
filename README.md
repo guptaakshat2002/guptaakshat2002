@@ -13,7 +13,7 @@
 
 📫 How to reach me **akshatg989@gmail.com**
 
-📄 Know about my experiences (https://drive.google.com/file/d/1h7qU3waPAdCzytUWZg9b6186HbdtXIsl/view?usp=sharing)
+📄 Know about my experiences ([https://drive.google.com/file/d/1h7qU3waPAdCzytUWZg9b6186HbdtXIsl/view?usp=sharing](https://www.linkedin.com/in/01-akshat-gupta/overlay/1741416158627/single-media-viewer/?profileId=ACoAADMz-ksBBLR_9SqsyEliVnJQ3kbdOGiMQag))
 
 ⚡ Fun fact **I can do multiple task easily**
 
