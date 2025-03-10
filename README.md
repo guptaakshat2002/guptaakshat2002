@@ -9,7 +9,7 @@
 
 👨‍💻 All of my projects are available at [https://github.com/guptaakshat2002?tab=repositories](https://github.com/guptaakshat2002?tab=repositories)
 
-💬 Ask me about **Data analyst, Python, Machine Learning and Databases**
+💬 Ask me about **Data analyst, Python, Machine Learning, Artificial Intelligence and Databases**
 
 📫 How to reach me **akshatg989@gmail.com**
 
