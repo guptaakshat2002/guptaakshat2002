@@ -1,7 +1,7 @@
 
 <img align="center" length="800" width= "1000" src="https://github.com/guptaakshat2002/guptaakshat2002/blob/main/AKSHAT%20GUPTA.png">
 <h1 align="center">Hi 👋, I'm AKSHAT GUPTA</h1>
-<h3 align="center">A passionate Data Scientist</h3>
+<h3 align="center">A passionate Data Scientist And Analyst</h3>
 
 
 
