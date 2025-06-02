@@ -1,7 +1,7 @@
 
 <img align="center" length="800" width= "1000" src="https://github.com/guptaakshat2002/guptaakshat2002/blob/main/AKSHAT%20GUPTA.png">
 <h1 align="center">Hi 👋, I'm AKSHAT GUPTA</h1>
-<h3 align="center">A passionate Data Scientist And Analyst</h3>
+<h3 align="center">A passionate Data Scientist, Data Analyst and Business Analyst</h3>
 
 
 
@@ -9,7 +9,7 @@
 
 👨‍💻 All of my projects are available at [https://github.com/guptaakshat2002?tab=repositories](https://github.com/guptaakshat2002?tab=repositories)
 
-💬 Ask me about **Analyst, Python, Machine Learning, Artificial Intelligence and Databases**
+💬 Ask me about **Analysis, Python, Machine Learning, Artificial Intelligence, Deep Learning and Databases**
 
 📫 How to reach me **akshatg989@gmail.com**
 
